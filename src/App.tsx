@@ -4,7 +4,7 @@ function App() {
       <div className="bg-pink-100 px-1 py-3 flex flex-col items-center">
         <h1 className="text-2xl font-semibold">Ouray And Tullride Trip</h1>
         <p>
-          August 1<sup>st</sup> &amp; 4<sup>th</sup>
+          August 1<sup>st</sup> - 4<sup>th</sup>
         </p>
       </div>
       <div className="flex flex-col items-center pt-4">
