@@ -1,9 +1,12 @@
 function App() {
   return (
     <>
-      <h1 className="bg-pink-100 px-1 py-4 text-center text-2xl font-semibold">
-        Ouray And Tullride Trip August 1<sup>st</sup> &amp; 4<sup>th</sup>
-      </h1>
+      <div className="bg-pink-100 px-1 py-3 flex flex-col items-center">
+        <h1 className="text-2xl font-semibold">Ouray And Tullride Trip</h1>
+        <p>
+          August 1<sup>st</sup> &amp; 4<sup>th</sup>
+        </p>
+      </div>
       <div className="flex flex-col items-center pt-4">
         <h2 className="font-semibold mb-2 text-xl">Participants</h2>
         <table className="pt-2 border-collapse border border-gray-300">
