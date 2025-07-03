@@ -39,7 +39,7 @@ function App() {
                 1<sup>st</sup> Friday
               </td>
               <td className="border border-blue-400 px-2 py-1">
-                Drive to Mt. Rose
+                Drive to Montrose
               </td>
             </tr>
             <tr>
