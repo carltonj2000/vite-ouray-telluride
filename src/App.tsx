@@ -69,7 +69,9 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <h2 className="font-semibold mb-2 mt-3 text-xl">Lodging Options</h2>
+        <h2 className="font-semibold mb-2 mt-3 text-xl">
+          Tentative Lodging Cost
+        </h2>
         <p>Per Person For 3 nights</p>
         <p>
           <a href="https://t.vrbo.io/9kGQCpFYHUb" className="underline">
