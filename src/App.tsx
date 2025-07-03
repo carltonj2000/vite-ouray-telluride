@@ -52,7 +52,7 @@ function App() {
             </tr>
             <tr>
               <td className="border border-gray-300 px-2 py-1">
-                3<sup>nd</sup> Sunday
+                3<sup>rd</sup> Sunday
               </td>
               <td className="border border-gray-300 px-2 py-1">
                 Ouray Via Ferrata x2
