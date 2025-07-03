@@ -1,25 +1,25 @@
 function App() {
   return (
     <>
-      <div className="bg-pink-100 px-1 py-3 flex flex-col items-center">
+      <div className="bg-blue-300 opacity-90 px-1 py-3 flex flex-col items-center">
         <h1 className="text-2xl font-semibold">Ouray And Tullride Trip</h1>
         <p>
           August 1<sup>st</sup> - 4<sup>th</sup>
         </p>
       </div>
-      <div className="flex flex-col items-center pt-4">
+      <div className="bg-blue-200 opacity-90 flex flex-col items-center pt-4">
         <h2 className="font-semibold mb-2 text-xl">Participants</h2>
-        <table className="pt-2 border-collapse border border-gray-300">
+        <table className="pt-2 border-collapse border border-blue-800">
           <tbody>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">Vyonne</td>
-              <td className="border border-gray-300 px-2 py-1">Christian</td>
-              <td className="border border-gray-300 px-2 py-1">Bruce</td>
+              <td className="border border-blue-400 px-2 py-1">Vyonne</td>
+              <td className="border border-blue-400 px-2 py-1">Christian</td>
+              <td className="border border-blue-400 px-2 py-1">Bruce</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">Teresa</td>
-              <td className="border border-gray-300 px-2 py-1">Sandy</td>
-              <td className="border border-gray-300 px-2 py-1">Carlton</td>
+              <td className="border border-blue-400 px-2 py-1">Teresa</td>
+              <td className="border border-blue-400 px-2 py-1">Sandy</td>
+              <td className="border border-blue-400 px-2 py-1">Carlton</td>
             </tr>
           </tbody>
         </table>
@@ -27,42 +27,42 @@ function App() {
         <table>
           <thead>
             <tr>
-              <th className="border border-gray-300 px-2 py-1 font-semibold">
+              <th className="border border-blue-400 px-2 py-1 font-semibold">
                 Day
               </th>
-              <th className="border border-gray-300 px-2 py-1">Activity</th>
+              <th className="border border-blue-400 px-2 py-1">Activity</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 1<sup>st</sup> Friday
               </td>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 Drive to Mt. Rose
               </td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 2<sup>nd</sup> Saturday
               </td>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 Telluride Via Ferrata &amp; Hike
               </td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 3<sup>rd</sup> Sunday
               </td>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 Ouray Via Ferrata x2
               </td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 4<sup>th</sup> Monday
               </td>
-              <td className="border border-gray-300 px-2 py-1">
+              <td className="border border-blue-400 px-2 py-1">
                 <p>Easy Class C Canyon tbd</p>
                 <p>Drive to Las Vegas</p>
               </td>
@@ -90,6 +90,7 @@ function App() {
           </a>
         </p>
       </div>
+      <div className="bg-blue-200 opacity-90 h-full"></div>
     </>
   );
 }
