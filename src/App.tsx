@@ -127,7 +127,6 @@ function App() {
                   <li>Water</li>
                   <li>Swimming Suit</li>
                   <li>Puffy Jacket</li>
-                  <li>Snacks In Car</li>
                 </ul>
               </td>
               <td className="border border-blue-400 px-2 py-1">
@@ -140,6 +139,7 @@ function App() {
                   <li>Lanyard</li>
                   <li>Water</li>
                   <li>Snacks</li>
+                  <li>Electrolytes</li>
                 </ul>
               </td>
             </tr>
@@ -156,7 +156,6 @@ function App() {
                   <li>Lights</li>
                   <li>Snacks</li>
                   <li>Water</li>
-                  <li>Electrolytes</li>
                 </ul>
               </td>
             </tr>
