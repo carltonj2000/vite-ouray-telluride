@@ -151,10 +151,10 @@ function App() {
             <tr>
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
-                  <li>toiletries</li>
-                  <li>first aid</li>
-                  <li>lights</li>
-                  <li>Snack</li>
+                  <li>Toiletries</li>
+                  <li>First aid</li>
+                  <li>Lights</li>
+                  <li>Snacks</li>
                   <li>Water</li>
                   <li>Electrolytes</li>
                 </ul>
