@@ -42,7 +42,8 @@ function App() {
               </td>
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
-                  <li>Drive to Montrose</li>
+                  <li>8AM Meet @ Bruce's</li>
+                  <li>Drive to Montrose ETA 5 PM</li>
                   <li>Japanese Theme Dinner</li>
                 </ul>
               </td>
@@ -65,7 +66,7 @@ function App() {
             </tr>
             <tr>
               <td className="border border-blue-400 px-2 py-1">
-                3<sup>rd</sup> Sunday
+                Sunday<br/>August 3<sup>rd</sup>
               </td>
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
@@ -87,7 +88,7 @@ function App() {
             </tr>
             <tr>
               <td className="border border-blue-400 px-2 py-1">
-                4<sup>th</sup> Monday
+                Monday<br/>August 4<sup>th</sup>
               </td>
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
