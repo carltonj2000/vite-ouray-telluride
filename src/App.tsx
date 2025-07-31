@@ -150,7 +150,7 @@ function App() {
           <tbody>
             <tr>
               <td className="border border-blue-400 px-2 py-1">
-                <ul>
+                <ul className="grid grid-cols-3 gap-2">
                   <li>Toiletries</li>
                   <li>First aid</li>
                   <li>Lights</li>
