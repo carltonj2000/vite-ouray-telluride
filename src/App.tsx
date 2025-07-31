@@ -161,7 +161,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <h2 className="font-semibold mt-3 mb-2 text-xl">Saturday &amp; Sunday Eats</h2>
+        <h2 className="font-semibold mt-3 mb-2 text-xl">Saturday &amp; Sunday Dinner</h2>
         <p className="mb-2">Take Home or In Restaurant</p>
         <table className="pt-2 border-collapse border border-blue-800">
           <tbody>
