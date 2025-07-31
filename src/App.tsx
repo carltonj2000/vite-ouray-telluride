@@ -145,12 +145,29 @@ function App() {
             </tr>
           </tbody>
         </table>
+        <h2 className="font-semibold mt-3 mb-2 text-xl">In Car</h2>
+        <table className="pt-2 border-collapse border border-blue-800">
+          <tbody>
+            <tr>
+              <td className="border border-blue-400 px-2 py-1">
+                <ul>
+                  <li>toiletries</li>
+                  <li>first aid</li>
+                  <li>lights</li>
+                  <li>Snack</li>
+                  <li>Water</li>
+                  <li>Electrolytes</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
       <div className="bg-blue-200 opacity-90 h-full"></div>
     </>
   );
 }
-
+/* toiletries, lights, first aid */
         {/* <h2 className="font-semibold mb-2 mt-3 text-xl"> */}
         {/*   Tentative Lodging Cost */}
         {/* </h2> */}
