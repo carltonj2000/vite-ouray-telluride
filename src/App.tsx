@@ -161,6 +161,43 @@ function App() {
             </tr>
           </tbody>
         </table>
+        <h2 className="font-semibold mt-3 mb-2 text-xl">Saturday &amp; Sunday Eats</h2>
+        <p className="mb-2">Take Home or In Restaurant</p>
+        <table className="pt-2 border-collapse border border-blue-800">
+          <tbody>
+            <tr>
+              <td className="border border-blue-400 px-2 py-1">
+                <ul>
+                  <li>
+                    <a href="https://www.urbanhip-e.com/" className="underline text-blue-400">
+                      Urban Hip-E
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.bluecorncafemontrose.com/" className="underline text-blue-400">
+                      Bluecorn Cafe &amp; Mercantile
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://mypastabilities.com/" className="underline text-blue-400">
+                      Endless Pastabilities
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.chang-thaicuisine.com/" className="underline text-blue-400">
+                      Chang Thai Cuisine
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://coloradoboymontrose.com/" className="underline text-blue-400">
+                      Colorado Boy Pizzeria &amp; Brewery
+                    </a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
       <div className="bg-blue-200 opacity-90 h-full"></div>
     </>
