@@ -55,7 +55,7 @@ function App() {
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
                   <li>
-                    <a href="https://ourayviaferrata.org/" className="underline text-slate-600">
+                    <a href="https://ourayviaferrata.org/" className="underline text-slate-800">
                       Ouray Via Ferratas
                     </a>
                   </li>
@@ -72,13 +72,13 @@ function App() {
                 <ul>
                   <li>Ouray Canyons</li>
                   <li>
-                    <a href="https://ropewiki.com/index.php?title=Angel_Creek_(Lower)" className="underline text-slate-600">
+                    <a href="https://ropewiki.com/index.php?title=Angel_Creek_(Lower)" className="underline text-slate-800">
                     Angle Creek 
                     </a>
                     {" "}4 raps, 45ft
                   </li>
                   <li>
-                    <a href="https://ropewikiacom/index.php?title=Angel_Creek_(Lower)" className="underline text-slate-600">
+                    <a href="https://ropewiki.com/Portland_Creek_(Ivans_Tail)" className="underline text-slate-800">
                     Portland Creek
                     </a>
                     {" "}2-3 raps, 55ft
@@ -93,7 +93,7 @@ function App() {
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
                   <li>
-                    <a href="https://www.telluride.com/activity/telluride-via-ferrata/" className="underline text-slate-600">
+                    <a href="https://www.telluride.com/activity/telluride-via-ferrata/" className="underline text-slate-800">
                       Telluride Via Ferrata
                     </a>
                   </li>
@@ -169,27 +169,27 @@ function App() {
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
                   <li>
-                    <a href="https://www.urbanhip-e.com/" className="underline text-slate-600">
+                    <a href="https://www.urbanhip-e.com/" className="underline text-slate-800">
                       Urban Hip-E
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.bluecorncafemontrose.com/" className="underline text-slate-600">
+                    <a href="https://www.bluecorncafemontrose.com/" className="underline text-slate-800">
                       Bluecorn Cafe &amp; Mercantile
                     </a>
                   </li>
                   <li>
-                    <a href="https://mypastabilities.com/" className="underline text-slate-600">
+                    <a href="https://mypastabilities.com/" className="underline text-slate-800">
                       Endless Pastabilities
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.chang-thaicuisine.com/" className="underline text-slate-600">
+                    <a href="https://www.chang-thaicuisine.com/" className="underline text-slate-800">
                       Chang Thai Cuisine
                     </a>
                   </li>
                   <li>
-                    <a href="https://coloradoboymontrose.com/" className="underline text-slate-600">
+                    <a href="https://coloradoboymontrose.com/" className="underline text-slate-800">
                       Colorado Boy Pizzeria &amp; Brewery
                     </a>
                   </li>
