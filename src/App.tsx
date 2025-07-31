@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <div className="bg-blue-300 opacity-90 px-1 py-3 flex flex-col items-center">
-        <h1 className="text-2xl font-semibold">Ouray And Tullride Trip</h1>
+        <h1 className="text-2xl font-semibold">Ouray And Telluride Trip</h1>
         <p>
           August 1<sup>st</sup> - 4<sup>th</sup>, 2025
         </p>
@@ -109,7 +109,7 @@ function App() {
         <table className="pt-2 border-collapse border border-blue-800">
           <tbody>
             <tr>
-              <th className="border border-blue-400 px-2 py-1 font-semibold">Canyone</th>
+              <th className="border border-blue-400 px-2 py-1 font-semibold">Canyon</th>
               <th className="border border-blue-400 px-2 py-1 font-semibold">Via Ferrata</th>
             </tr>
             <tr>
@@ -117,21 +117,22 @@ function App() {
                 <ul>
                   <li>Large Pack</li>
                   <li>Rain Jacket</li>
-                  <li>Swiming Suit</li>
                   <li>Wetsuit</li>
                   <li>Water Shoes</li>
-                  <li>Puffy Jacket</li>
                   <li>Dry bags/keg</li>
                   <li>Harness</li>
                   <li>Rappel gear</li>
                   <li>Helment</li>
                   <li>Gloves (neoprene)</li>
                   <li>Water</li>
+                  <li>Swimming Suit</li>
+                  <li>Puffy Jacket</li>
                 </ul>
               </td>
               <td className="border border-blue-400 px-2 py-1">
                 <ul>
                   <li>Small Pack</li>
+                  <li>Rain Jacket</li>
                   <li>Harness</li>
                   <li>Gloves</li>
                   <li>Helment</li>
