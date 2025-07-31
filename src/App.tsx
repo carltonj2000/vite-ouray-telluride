@@ -127,6 +127,7 @@ function App() {
                   <li>Water</li>
                   <li>Swimming Suit</li>
                   <li>Puffy Jacket</li>
+                  <li>Snacks In Car</li>
                 </ul>
               </td>
               <td className="border border-blue-400 px-2 py-1">
